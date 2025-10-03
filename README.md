@@ -11,4 +11,4 @@ TÜM SİSTEMLER ÇALIŞMAKTADIR. TÜM KONTROLLER EDİLDİ VE ÇALIŞIYOR.
 `node . `
 
 **ÖNEMLİ UYARI !**
-`BOT TAMAMEN [YouTube/MosterDev](https://www.youtube.com/@MosterDev) AİTTİR İZİNSİZ PAYLAŞILMASI/SATIŞA SUNULMASI KESİNLİKLE YASAKTIR.`
+`BOT TAMAMEN` [YouTube/MosterDev](https://www.youtube.com/@MosterDev) `AİTTİR İZİNSİZ PAYLAŞILMASI/SATIŞA SUNULMASI KESİNLİKLE YASAKTIR.`
